@@ -1,0 +1,6 @@
+ls
+nano
+touch
+cat
+mkdir
+cd
