@@ -1,0 +1,5 @@
+Usar Git es súper importante porque básicamente es como tener un seguro para tu código.
+ Si borras algo por error o haces un cambio que rompe todo el programa, Git te permite regresar al punto donde todo funcionaba bien sin entrar en pánico.
+ También sirve mucho para mantener el orden, ya que cada vez que haces un "commit" dejas una nota de qué fue lo que hiciste ese día.
+ Esto ayuda un montón si trabajas con más personas, porque así nadie borra el trabajo de nadie y todos saben en qué paso va el proyecto.
+ Al final del día, te ahorra muchísimas horas de estrés y hace que el desarrollo sea mucho más organizado, permitiéndote probar ideas nuevas en ramas separadas sin miedo a arruinar lo que ya tienes listo.
