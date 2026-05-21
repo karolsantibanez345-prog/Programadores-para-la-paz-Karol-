@@ -1,0 +1,4 @@
+Explicación de la ruta POST /reporte:
+
+1. Qué hace esta ruta: Recibe datos enviados por el usuario en el cuerpo de la solicitud (req.body) bajo la propiedad 'mensaje', y responde con un objeto JSON confirmando que el reporte fue recibido junto con el texto original enviado.
+2. Utilidad comunitaria: En una aplicación comunitaria, esta ruta serviría para que los vecinos envíen alertas de seguridad, reporten daños en la infraestructura pública (como un tubo roto o una farola dañada) o registren quejas de forma directa desde un formulario en sus celulares hacia la base de datos del servidor.

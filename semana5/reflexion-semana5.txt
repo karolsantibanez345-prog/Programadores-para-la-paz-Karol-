@@ -1,0 +1,5 @@
+Las APIs representan una herramienta fundamental para la organización comunitaria moderna, ya que actúan como puentes de comunicación estandarizados entre los ciudadanos y los sistemas de información.
+ Al centralizar datos mediante endpoints específicos, permiten que diferentes aplicaciones (como una app móvil vecinal o un sitio web comunal) reporten alertas de seguridad, cortes de servicios o eventos en tiempo real hacia un mismo servidor.
+ Esto elimina el desorden de los canales tradicionales como cadenas de mensajería instantánea, estructurando los reportes en formatos limpios como JSON.
+ Además, al organizar la información de forma automática, facilitan que los líderes comunitarios o las autoridades visualicen los problemas prioritarios mediante tableros de control.
+ En consecuencia, las APIs transforman la participación ciudadana en datos accionables, acelerando los tiempos de respuesta ante emergencias y mejorando la transparencia en la gestión de recursos de la comunidad.
