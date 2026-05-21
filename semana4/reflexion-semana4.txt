@@ -1,0 +1,11 @@
+
+El uso de tecnologías abiertas como Node.js es fundamental para que las comunidades e iniciativas ciudadanas construyan sus propias herramientas tecnológicas.
+Sin depender de corporaciones privadas.
+ Al ser un software libre y de código abierto, reduce drásticamente los costos de desarrollo y permite que cualquier persona con acceso a internet aprenda a programar y auditar el sistema.
+ Esto garantiza la soberanía tecnológica, permitiendo que las herramientas se adapten exactamente a las necesidades reales del territorio y no a intereses comerciales.
+ Además, el desarrollo abierto fomenta la transparencia y la confianza, ya que la comunidad puede verificar cómo se manejan sus datos y asegurar su privacidad.
+ Al no pagar licencias costosas, los proyectos comunitarios se vuelven sostenibles a largo plazo y motivan el aprendizaje colectivo.
+ En conclusión, la tecnología abierta democratiza el acceso al conocimiento y empodera a los ciudadanos para resolver problemas locales de forma autónoma.
+
+
+
