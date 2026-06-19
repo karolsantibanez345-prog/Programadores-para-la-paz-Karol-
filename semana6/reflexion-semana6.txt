@@ -1,0 +1,6 @@
+Es fundamental que las plataformas tecnológicas reciban información de forma estructurada porque esto permite automatizar y optimizar el procesamiento de los datos.
+ Cuando un ciudadano envía un reporte mediante un formato estandarizado como JSON, el software puede clasificar, almacenar y redirigir la incidencia automáticamente al departamento correcto sin intervención humana manual.
+ Esto agiliza drásticamente los tiempos de respuesta ante problemas comunitarios urgentes.
+ Además, la estructura limpia evita errores de interpretación o datos incompletos que suelen ocurrir con los textos libres o llamadas telefónicas.
+ En conclusión, los datos estructurados transforman las quejas ciudadanas en información accionable, permitiendo a los desarrolladores crear herramientas eficientes que faciliten una mejor gobernanza digital y una resolución de problemas a gran escala.
+
