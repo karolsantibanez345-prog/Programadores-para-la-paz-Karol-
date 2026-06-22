@@ -1,0 +1,12 @@
+Explicación de la consulta GET /reportes:
+
+Al realizar una petición GET a la ruta http://localhost:3000/reportes después de haber enviado los datos por POST, el servidor responde con un arreglo (array) en formato JSON que contiene todos los reportes almacenados temporalmente en la memoria del servidor.
+
+Si ya se registró el primer reporte, la respuesta se ve así:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
