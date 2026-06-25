@@ -1,0 +1,5 @@
+Comando 'uname -a': Muestra la informacion completa del sistema operativo, incluyendo el nombre del kernel de Linux, la version del sistema y la arquitectura.
+
+Comando 'whoami': Muestra el nombre del usuario actual en la terminal.
+
+Utilidad: Permite saber si el sistema esta actualizado, que arquitectura tiene para instalar software compatible y gestionar correctamente los permisos de usuario.
