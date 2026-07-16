@@ -1,0 +1,5 @@
+La interfaz de usuario sera limpia, responsiva y facil de navegar para cualquier miembro de la comunidad.
+Contara con un formulario intuitivo para la creacion de nuevas causas, solicitando unicamente titulo, descripcion y categoria.
+Se presentara una vista principal en formato de tarjetas ("cards") donde se listaran todas las causas comunitarias disponibles de manera publica.
+Cada tarjeta de causa incorporara un boton visible de "Apoyar causa" y un contador en tiempo real que muestre la cantidad total de apoyos acumulados.
+Para resguardar la seguridad y privacidad, la interfaz ocultara cualquier dato de caracter personal de los usuarios votantes.

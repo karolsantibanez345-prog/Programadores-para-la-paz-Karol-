@@ -1,0 +1,5 @@
+El proceso de login es el mecanismo que valida la identidad de un usuario en la plataforma mediante sus credenciales.
+Las rutas de la aplicacion deben estar protegidas para asegurar que solo los usuarios autorizados realicen cambios criticos, como crear o borrar causas.
+De este modo se evita que bots o usuarios anonimos manipulen la informacion de la plataforma de manera fraudulenta.
+Asimismo, bajo ninguna circunstancia se debe exponer publicamente informacion privada como contrasenas en texto plano, datos de contacto, direcciones, tokens de acceso o claves API.
+La proteccion de estas rutas y datos criticos garantiza la confiabilidad general del sistema.

@@ -1,0 +1,10 @@
+Automatizacion del Sistema con Telegram:
+
+Evento activador (Trigger):
+Se activa inmediatamente en el momento en que un ciudadano registra un nuevo apoyo a una causa de la plataforma.
+
+Mensaje enviado:
+"¡Nuevo respaldo registrado! La causa 'Mejoras en el parque vecinal' ha sumado una firma de apoyo."
+
+Informacion que NO debe enviarse por seguridad:
+Bajo ninguna circunstancia se transmitiran nombres completos de usuarios, documentos de identidad (como cedulas), numeros de telefono, correos electronicos personales, direcciones fisicas, contrasenas ni comentarios de caracter privado.

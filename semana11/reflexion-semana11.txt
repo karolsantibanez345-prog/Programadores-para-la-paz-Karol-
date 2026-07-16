@@ -1,0 +1,5 @@
+Una plataforma tecnologica orientada a la participacion ciudadana debe garantizar un entorno seguro y transparente para generar confianza en la comunidad.
+La integracion de una base de datos solida asegura que las propuestas y apoyos se registren de manera integra, impidiendo la perdida de informacion valiosa.
+Por otro lado, la autenticacion de usuarios es indispensable para validar que las interacciones provengan de personas reales, mitigando votos duplicados o spam.
+Finalmente, la proteccion de los datos personales es un deber etico y legal que resguarda la privacidad de los participantes ante posibles filtraciones o acoso.
+Sin estas tres capas de seguridad, la plataforma perderia credibilidad, limitando la participacion democratica de los ciudadanos por temor a la exposicion de sus datos.

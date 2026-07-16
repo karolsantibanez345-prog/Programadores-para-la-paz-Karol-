@@ -1,0 +1,21 @@
+Entidad: Causa
+Campos principales:
+- id (clave primaria, autoincremental)
+- titulo (texto, obligatorio)
+- descripcion (texto, obligatorio)
+- fecha_creacion (fecha)
+
+Propósito:
+Almacenar de forma organizada las diferentes iniciativas o causas comunitarias creadas por los usuarios para que puedan visualizarse públicamente en la plataforma.
+
+--------------------------------------------------
+
+Entidad: Apoyo
+Campos principales:
+- id (clave primaria, autoincremental)
+- causa_id (clave foránea, referencia a Causa)
+- usuario (texto, obligatorio)
+- fecha_apoyo (fecha)
+
+Propósito:
+Registrar de manera estructurada los apoyos digitales de la comunidad a cada causa, permitiendo realizar el conteo de firmas o votos por iniciativa.

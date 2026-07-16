@@ -1,0 +1,6 @@
+Durante este curso he aprendido que la tecnologia es un catalizador poderoso para fortalecer la organizacion de las comunidades.
+Herramientas sencillas de desarrollo nos permiten crear soluciones accesibles que dan voz a las peticiones ciudadanas de manera estructurada.
+La implementacion de bases de datos, APIs de backend y la generacion automatica de documentos formales facilitan la gestion de peticiones con mayor impacto e incidencia.
+Asimismo, es fundamental adoptar un enfoque etico en el manejo de datos, reduciendo al minimo el almacenamiento de informacion sensible para proteger la privacidad de la comunidad.
+La automatizacion mediante servicios de mensajeria e integracion como n8n o Telegram acerca el software a la realidad de las personas, agilizando la comunicacion en tiempo real.
+En conclusion, el desarrollo web orientado a lo social es clave para construir herramientas participativas seguras, confiables y con un proposito comunitario real.

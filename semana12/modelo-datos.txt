@@ -1,0 +1,23 @@
+Modelo de Datos - Peticion en 3 Clics
+
+Entidad: Causa
+Campos:
+- id (clave primaria, autoincremental)
+- titulo (texto, obligatorio)
+- descripcion (texto, obligatorio)
+- fecha (fecha de creacion)
+
+Explicacion:
+Sirve para almacenar la informacion principal de cada propuesta o iniciativa ciudadana creada por la comunidad, permitiendo que sea identificable y visible de manera publica en la plataforma.
+
+--------------------------------------------------
+
+Entidad: Apoyo
+Campos:
+- id (clave primaria, autoincremental)
+- causa_id (clave foranea, vinculada a Causa)
+- nombre (texto, obligatorio)
+- fecha (fecha del registro del apoyo)
+
+Explicacion:
+Sirve para registrar de manera organizada cada respaldo digital que recibe una causa especifica. Vincula la causa con los ciudadanos participantes para llevar el control numerico de firmas recopiladas.

@@ -1,0 +1,7 @@
+Flujo del Sistema - Peticion en 3 Clics:
+
+Paso 1 (Registro de la Causa): Un ciudadano o lider comunitario ingresa a la plataforma y registra una nueva causa con titulo y descripcion.
+Paso 2 (Persistencia en BD): Los detalles de la causa se guardan de forma estructurada y segura en la base de datos de la aplicacion.
+Paso 3 (Participacion Comunitaria): Otros ciudadanos visualizan la causa de forma publica y registran su apoyo de manera rapida y sencilla.
+Paso 4 (Generacion Formal): Al alcanzar una meta establecida, el backend genera automaticamente un documento en formato PDF con la peticion estructurada.
+Paso 5 (Notificacion y Cierre): El sistema notifica de forma automatica a traves de canales como Telegram que la peticion formal esta lista para descargarse.
